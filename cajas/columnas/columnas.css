@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: deepskyblue;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid black;
+
+}
+
+.columnas {
+    display: flex;
+    height: 100vh;
+
+}
+
+.a {
+    background-color: aqua;
+
+}
+
+.b {
+    background-color: aquamarine;
+
+}
+
+.c {
+    background-color: cyan;
+
+}
+
+.d {
+    background-color: darkturquoise;
+
+}
+
+.e {
+    background-color: turquoise;
+
+}
+    .f {background-color:yellow
+    
+    }
+    h3 {
+        text-align: center;
+    }
+    .tam{
+        width: 16.7vw;
+    }

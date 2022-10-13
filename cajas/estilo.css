@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+}
+.auto{
+    background-color:goldenrod;
+    margin: 15px;
+    padding: 6px;
+    border: 2px solid salmon
+}
+#principal{
+    justify-content: center;
+}
+.auto span{
+    color: steelblue;
+    font-size: 1.7em ;
+    font-weight: 900;
+}
